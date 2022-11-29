@@ -1,9 +1,16 @@
-# Conheça meu perfil
+<h1>Conheça meu perfil
+
+  ##
+  
 <div>
   <a href="https://github.com/matheusdinizsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdinizsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdinizsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  ##
+  
+  <h6> Principais linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="SW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
