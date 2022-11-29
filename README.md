@@ -1,6 +1,4 @@
-<h1>Conheça meu perfil
-
-  ##
+<h2>Dados</h2>
   
 <div>
   <a href="https://github.com/matheusdinizsilva">
@@ -22,14 +20,12 @@
 </div>
     <h6>Outros dominios
 <div style="display: inline_block"><br>
-  <img align="center" alt="Corel" height="30" width="40" src="https://uxwing.com/coreldraw-icon/">
+  <img align="center" alt="Conva" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
  
   ##
   
-  Contatos <h2>
-  
+ Contatos
   <div> 
-  <a href="https://instagram.com/falacueca" target="_blank"><img width="40" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" target="_blank"></a>
-  <a href="https://twitter.com/matheuscueca" target="_blank"><img width="40" src="https://cdn-icons-png.flaticon.com/512/4494/4494477.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BtJBqUvXRG6fvKGYi2aniA%3D%3D" target="_blank"><img width="40" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" target="_blank"></a> 
- 
+  <a href="https://instagram.com/falacueca" target="_blank"><img width="30" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" target="_blank"></a>
+  <a href="https://twitter.com/matheuscueca" target="_blank"><img width="30" src="https://cdn-icons-png.flaticon.com/512/4494/4494477.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BtJBqUvXRG6fvKGYi2aniA%3D%3D" target="_blank"><img width="30" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" target="_blank"></a> 
