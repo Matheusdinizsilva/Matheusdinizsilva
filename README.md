@@ -1,5 +1,3 @@
-<h2>Bem vindo!</h2>
-  
 <div>
   <a href="https://github.com/matheusdinizsilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusdinizsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,6 +5,7 @@
 </div>
   
   ![Snake animation](https://github.com/matheusdinizsilva/matheusdinizsilva/blob/output/github-contribution-grid-snake.svg)
+  
   ##
   
   <h6>Principais linguagens
