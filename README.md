@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/matheusdinizsilva/matheusdinizsilva/blob/output/github-contribution-grid-snake.svg)]
+
 <h2>Dados</h2>
   
 <div>
@@ -29,5 +31,3 @@
   <a href="https://instagram.com/falacueca" target="_blank"><img width="30" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" target="_blank"></a>
   <a href="https://twitter.com/matheuscueca" target="_blank"><img width="30" src="https://cdn-icons-png.flaticon.com/512/4494/4494477.png" target="_blank"></a>
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BtJBqUvXRG6fvKGYi2aniA%3D%3D" target="_blank"><img width="30" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" target="_blank"></a> 
-
-     ![Snake animation](https://github.com/matheusdinizsilva/matheusdinizsilva/blob/output/github-contribution-grid-snake.svg)
