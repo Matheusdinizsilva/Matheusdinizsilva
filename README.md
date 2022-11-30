@@ -1,6 +1,4 @@
-![Snake animation](https://github.com/matheusdinizsilva/matheusdinizsilva/blob/output/github-contribution-grid-snake.svg)]
-
-<h2>Dados</h2>
+<h2>Bem vindo!</h2>
   
 <div>
   <a href="https://github.com/matheusdinizsilva">
@@ -8,6 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdinizsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+  ![Snake animation](https://github.com/matheusdinizsilva/matheusdinizsilva/blob/output/github-contribution-grid-snake.svg)]
   ##
   
   <h6>Principais linguagens
